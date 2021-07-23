@@ -1,2 +1,2 @@
-# algorithm_study
-History of studying algorithms. BaekJoon, SWEA, DataStructure, etc
+# ps_study
+History of studying problem solving algorithms. BaekJoon, SWEA, DataStructure, etc
