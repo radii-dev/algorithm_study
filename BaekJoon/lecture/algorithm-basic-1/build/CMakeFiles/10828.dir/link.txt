@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/10828.dir/10828.cpp.o  -o 10828 
