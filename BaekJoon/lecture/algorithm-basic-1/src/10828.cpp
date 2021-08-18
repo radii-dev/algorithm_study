@@ -45,7 +45,7 @@ void solve() {
 
 int main (int argc, char* argv[]) {
     fio;
-    freopen("10828_tc2.txt", "r", stdin);
+    freopen("input1.txt", "r", stdin);
 
     solve();
     
